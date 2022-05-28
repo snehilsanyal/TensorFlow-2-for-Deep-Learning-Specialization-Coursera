@@ -5,8 +5,11 @@ The [TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/spe
 ## Courses
 
 **1. Getting Started with TensorFlow 2**
+
 **2. Customising your Models with TensorFlow 2**
+
 **3. Probabilistic Deep Learning using TensorFlow 2**
+
 
 - This repository contains 3 folders each for the 3 courses, each course folder consists of 5 folders for each week from **Week 1** to **Week 5**.
 - Each week's folder contains a Readme file (do read it) which provides the organization of the topics in that particular course and information on how to run the code samples.
