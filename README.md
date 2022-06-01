@@ -1,4 +1,4 @@
-# TensorFlow-2-for-Deep-Learning-Specialization-Coursera
+# TensorFlow 2 for Deep Learning Specialization Coursera
 
 The [TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/specializations/tensorflow2-deeplearning) is offered by Imperial College of London. The instructor of this specialization is [Dr. Kevin Webster](https://www.imperial.ac.uk/people/kevin.webster). This specialization consists of three courses each 5 week long. The first 4 weeks build on concepts with some assignments and practice, whereas the final week is for Capstone Project.
 
